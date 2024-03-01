@@ -31,7 +31,7 @@ namespace X_O_game
             
                 if (sira % 2 == 1)
                 {
-                    //Oyuncu 1den basladi;
+                    //Oyuncu 1den basladiii;
                     (sender as TextBox).Text = "X";
 
                     sira++;

@@ -1,0 +1,11 @@
+C:\Users\eyuph\Desktop\C#\X-O game\X-O game\bin\Debug\X-O game.exe.config
+C:\Users\eyuph\Desktop\C#\X-O game\X-O game\bin\Debug\X-O game.exe
+C:\Users\eyuph\Desktop\C#\X-O game\X-O game\bin\Debug\X-O game.pdb
+C:\Users\eyuph\Desktop\C#\X-O game\X-O game\obj\Debug\X-O game.csproj.AssemblyReference.cache
+C:\Users\eyuph\Desktop\C#\X-O game\X-O game\obj\Debug\X_O_game.deneme.resources
+C:\Users\eyuph\Desktop\C#\X-O game\X-O game\obj\Debug\X_O_game.Form1.resources
+C:\Users\eyuph\Desktop\C#\X-O game\X-O game\obj\Debug\X_O_game.Properties.Resources.resources
+C:\Users\eyuph\Desktop\C#\X-O game\X-O game\obj\Debug\X-O game.csproj.GenerateResource.cache
+C:\Users\eyuph\Desktop\C#\X-O game\X-O game\obj\Debug\X-O game.csproj.CoreCompileInputs.cache
+C:\Users\eyuph\Desktop\C#\X-O game\X-O game\obj\Debug\X-O game.exe
+C:\Users\eyuph\Desktop\C#\X-O game\X-O game\obj\Debug\X-O game.pdb
